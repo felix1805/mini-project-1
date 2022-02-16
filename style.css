@@ -1,0 +1,20 @@
+html, * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+    width: 100%;
+  }
+  
+  nav a  {
+    color: white;
+    margin: 8px;
+  }
+  
+  main {
+    margin-top: 100px;
+  }
