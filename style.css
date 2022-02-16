@@ -4,8 +4,9 @@ html, * {
   }
   
   header {
+    text-align: center;
     background-color: darkred;
-    color: white;
+    color: rgb(236, 22, 22);
     padding: 20px;
     width: 100%;
   }
